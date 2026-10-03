@@ -1,0 +1,272 @@
+{
+  "voice": "en-US-Harper:MAI-Voice-2",
+  "pitch": "+20%",
+  "rate": "+0%",
+  "generatedAt": "2026-10-01T23:43:04",
+  "clips": {
+    "MEMO-001": {
+      "file": "MEMO-001.mp3",
+      "chars": 572,
+      "durationSec": 40.73,
+      "hash": "398e98de1c6a"
+    },
+    "MEMO-002": {
+      "file": "MEMO-002.mp3",
+      "chars": 365,
+      "durationSec": 28.82,
+      "hash": "2a2178a16f52"
+    },
+    "MEMO-003": {
+      "file": "MEMO-003.mp3",
+      "chars": 404,
+      "durationSec": 31.13,
+      "hash": "2df259590d17"
+    },
+    "MEMO-004": {
+      "file": "MEMO-004.mp3",
+      "chars": 543,
+      "durationSec": 40.51,
+      "hash": "38c757a17cfa"
+    },
+    "MEMO-005": {
+      "file": "MEMO-005.mp3",
+      "chars": 784,
+      "durationSec": 58.46,
+      "hash": "3e08d6ac3bf5"
+    },
+    "MEMO-006": {
+      "file": "MEMO-006.mp3",
+      "chars": 611,
+      "durationSec": 50.26,
+      "hash": "4e25bb39ce76"
+    },
+    "MEMO-007": {
+      "file": "MEMO-007.mp3",
+      "chars": 902,
+      "durationSec": 74.57,
+      "hash": "4cb16d9fa41d"
+    },
+    "MEMO-008": {
+      "file": "MEMO-008.mp3",
+      "chars": 393,
+      "durationSec": 31.44,
+      "hash": "ef047f8da31b"
+    },
+    "MEMO-009": {
+      "file": "MEMO-009.mp3",
+      "chars": 464,
+      "durationSec": 39.7,
+      "hash": "e6f90848fd63"
+    },
+    "MEMO-010": {
+      "file": "MEMO-010.mp3",
+      "chars": 745,
+      "durationSec": 59.04,
+      "hash": "5e2c42345664"
+    },
+    "MEMO-011": {
+      "file": "MEMO-011.mp3",
+      "chars": 964,
+      "durationSec": 64.68,
+      "hash": "7559c37c4b75"
+    },
+    "MEMO-012": {
+      "file": "MEMO-012.mp3",
+      "chars": 483,
+      "durationSec": 35.86,
+      "hash": "15fd11c32a80"
+    },
+    "DOC-001": {
+      "file": "DOC-001.mp3",
+      "chars": 1644,
+      "durationSec": 120.34,
+      "hash": "a9195c86f379"
+    },
+    "DOC-002": {
+      "file": "DOC-002.mp3",
+      "chars": 3176,
+      "durationSec": 244.73,
+      "hash": "49450ae09c30"
+    },
+    "DOC-003": {
+      "file": "DOC-003.mp3",
+      "chars": 3443,
+      "durationSec": 262.51,
+      "hash": "7a6a44614ecb"
+    },
+    "DOC-004": {
+      "file": "DOC-004.mp3",
+      "chars": 3324,
+      "durationSec": 268.73,
+      "hash": "522769fb5905"
+    },
+    "TKR-001": {
+      "file": "TKR-001.mp3",
+      "chars": 107,
+      "durationSec": 7.01,
+      "hash": "9da1cddef6b9"
+    },
+    "TKR-002": {
+      "file": "TKR-002.mp3",
+      "chars": 106,
+      "durationSec": 8.3,
+      "hash": "de1727cce288"
+    },
+    "TKR-003": {
+      "file": "TKR-003.mp3",
+      "chars": 102,
+      "durationSec": 6.89,
+      "hash": "381cb8489e15"
+    },
+    "TKR-004": {
+      "file": "TKR-004.mp3",
+      "chars": 97,
+      "durationSec": 8.76,
+      "hash": "5d8985b1caed"
+    },
+    "TKR-005": {
+      "file": "TKR-005.mp3",
+      "chars": 99,
+      "durationSec": 7.3,
+      "hash": "ca40a0b71e5d"
+    },
+    "TKR-006": {
+      "file": "TKR-006.mp3",
+      "chars": 105,
+      "durationSec": 7.68,
+      "hash": "2c0f70f1ccf3"
+    },
+    "TKR-007": {
+      "file": "TKR-007.mp3",
+      "chars": 102,
+      "durationSec": 7.63,
+      "hash": "20f7e3fa9889"
+    },
+    "TKR-008": {
+      "file": "TKR-008.mp3",
+      "chars": 102,
+      "durationSec": 8.69,
+      "hash": "2600f8df04ae"
+    },
+    "TKR-009": {
+      "file": "TKR-009.mp3",
+      "chars": 101,
+      "durationSec": 7.06,
+      "hash": "629238d61cf1"
+    },
+    "TKR-010": {
+      "file": "TKR-010.mp3",
+      "chars": 92,
+      "durationSec": 4.51,
+      "hash": "0a7ba5dbe6ea"
+    },
+    "TKR-011": {
+      "file": "TKR-011.mp3",
+      "chars": 104,
+      "durationSec": 7.01,
+      "hash": "ae413fd7272a"
+    },
+    "TKR-012": {
+      "file": "TKR-012.mp3",
+      "chars": 100,
+      "durationSec": 5.33,
+      "hash": "c282355a208d"
+    },
+    "TKR-013": {
+      "file": "TKR-013.mp3",
+      "chars": 96,
+      "durationSec": 8.59,
+      "hash": "a16b191f6e7d"
+    },
+    "TKR-014": {
+      "file": "TKR-014.mp3",
+      "chars": 97,
+      "durationSec": 7.3,
+      "hash": "bc2fe48bc1a9"
+    },
+    "TKR-015": {
+      "file": "TKR-015.mp3",
+      "chars": 96,
+      "durationSec": 6.43,
+      "hash": "1ebe6c61a6d9"
+    },
+    "TKR-016": {
+      "file": "TKR-016.mp3",
+      "chars": 94,
+      "durationSec": 5.62,
+      "hash": "3aabe2e4890d"
+    },
+    "TKR-017": {
+      "file": "TKR-017.mp3",
+      "chars": 100,
+      "durationSec": 7.2,
+      "hash": "853c8ef0f614"
+    },
+    "TKR-018": {
+      "file": "TKR-018.mp3",
+      "chars": 93,
+      "durationSec": 5.76,
+      "hash": "276048696cf9"
+    },
+    "TKR-019": {
+      "file": "TKR-019.mp3",
+      "chars": 106,
+      "durationSec": 8.28,
+      "hash": "ac8fca7c493b"
+    },
+    "TKR-020": {
+      "file": "TKR-020.mp3",
+      "chars": 108,
+      "durationSec": 8.59,
+      "hash": "af73877b5422"
+    },
+    "TKR-021": {
+      "file": "TKR-021.mp3",
+      "chars": 109,
+      "durationSec": 8.42,
+      "hash": "50f84e3295ee"
+    },
+    "TKR-022": {
+      "file": "TKR-022.mp3",
+      "chars": 82,
+      "durationSec": 6.53,
+      "hash": "52220ffb0a48"
+    },
+    "TKR-023": {
+      "file": "TKR-023.mp3",
+      "chars": 94,
+      "durationSec": 6.1,
+      "hash": "6dec44a365c2"
+    },
+    "TKR-024": {
+      "file": "TKR-024.mp3",
+      "chars": 100,
+      "durationSec": 6.48,
+      "hash": "322573400ca0"
+    },
+    "TKR-025": {
+      "file": "TKR-025.mp3",
+      "chars": 104,
+      "durationSec": 8.74,
+      "hash": "3962dc1c8a15"
+    },
+    "TKR-028": {
+      "file": "TKR-028.mp3",
+      "chars": 55,
+      "durationSec": 9.86,
+      "hash": "4367457d79df"
+    },
+    "TKR-029": {
+      "file": "TKR-029.mp3",
+      "chars": 44,
+      "durationSec": 3.53,
+      "hash": "a2f585cd1a25"
+    },
+    "TKR-030": {
+      "file": "TKR-030.mp3",
+      "chars": 100,
+      "durationSec": 7.06,
+      "hash": "118ec6f20a97"
+    }
+  }
+}
