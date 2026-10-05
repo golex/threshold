@@ -1,0 +1,29 @@
+{
+  "cellPx": 64,
+  "machines": {
+    "InputNode": "input-node.png",
+    "InputNodeXT7": "input-node-xt7.png",
+    "Processor": "processor.png",
+    "ProcessorXT7": "processor-xt7.png",
+    "Assembler": "assembler.png",
+    "CleanroomAssembler": "cleanroom-assembler.png",
+    "OutputNode": "output-node.png"
+  },
+  "machineSizePx": 128,
+  "items": {
+    "Copper": "item-copper.png",
+    "Silicon": "item-silicon.png",
+    "Lithium": "item-lithium.png",
+    "XT7Substrate": "item-xt7-substrate.png",
+    "CopperTraces": "item-copper-traces.png",
+    "SiliconDies": "item-silicon-dies.png",
+    "Electrolyte": "item-electrolyte.png",
+    "ProcessedXT7": "item-processed-xt7.png",
+    "CircuitBoards": "item-circuit-boards.png",
+    "StandardCells": "item-standard-cells.png",
+    "PylonCores": "item-pylon-cores.png"
+  },
+  "itemSizePx": 32,
+  "logo": "logo.png",
+  "logoSizePx": 256
+}
